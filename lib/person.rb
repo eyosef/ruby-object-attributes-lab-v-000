@@ -9,5 +9,6 @@ class Person
     @job = job_name
   end
   def job
+    @ job
   end
 end
