@@ -3,4 +3,8 @@ class Person
   end
   def name
   end
+  def job=
+  end
+  def job
+  end
 end
